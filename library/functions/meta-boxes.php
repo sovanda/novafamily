@@ -256,7 +256,7 @@ $page_template_about = array(
 /* ---------------------------------------------------------------------- */
 /*	Metabox for client
 /* ---------------------------------------------------------------------- */
-$post_type_gallery = array(
+$post_type_client = array(
 	'id'          => 'client-settings',
 	'title'       => 'Client meta',
 	'desc'        => '',
