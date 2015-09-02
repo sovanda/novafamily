@@ -1,0 +1,417 @@
+/* --------------------------------------------------------------- * STRUCTURE : Layout style * ------------------------------------------------------------ */   /* Large Tablets */
+@media screen and (max-width: 940px) {
+	#menu-trigger, .menu-button {
+		display: block;
+	}
+	.container {
+		width: 740px;
+	}
+	.footer-info {
+		width: 100%;
+	}
+	.slogan .message {
+		margin-left: -230px;
+		width: 420px;
+	}
+	.slogan .team-1 {
+		width: 150px;
+	}
+	.slogan .team-2 {
+		width: 400px;
+	}
+	.slogan p {
+		left: 148px;
+		width: 275px;
+	}
+	.related-post article {
+		width: 160px;
+	}
+	.entry-about .service-desc {
+		width: 300px;
+	}
+	#welcome, #work {
+		height: 840px;
+		width: 100%;
+	}
+	.inner-table {
+		height: auto;
+		padding-top: 140px;
+	}
+	#welcome .heart img {
+		width: 460px;
+	}
+	#welcome .desc {
+		width: 100%;
+		font-size: 23px;
+	}
+	#clients .client-item {
+		width: 136px;
+		height: auto;
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(2n+1), #clients .client-item:nth-child(3n+1), #clients .client-item:nth-child(4n+1) {
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(5n+1) {
+		margin-right: 0;
+	}
+	.flex-direction-nav a::before {
+		font-size: 30px;
+	}
+}/* Smaller Tablets & Really Large Phones */
+@media screen and (max-width: 760px) {
+	.container, .main, .sidebar {
+		width: 600px;
+	}
+	.sidebar .widget {
+		width: 48.5%;
+		float: left;
+		margin-right: 3%;
+	}
+	.sidebar .widget:nth-child(even) {
+		margin-right: 0;
+	}
+	.sidebar .widget:nth-child(odd):last-child {
+		width: 100%;
+	}
+	#work-slider .flex-caption h2 {
+		font-size: 26px;
+		line-height: 30px;
+		margin-bottom: 0;
+	}
+	#work-slider .flex-caption a.more {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	#work-slider .flex-control-thumbs {
+		display: none;
+	}
+	#clients .client-item {
+		width: 138px;
+		height: auto;
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(2n+1), #clients .client-item:nth-child(3n+1), #clients .client-item:nth-child(5n+1) {
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(4n+1) {
+		margin-right: 0;
+	}
+	.separator {
+		margin:10px 0;
+	}
+	.slogan .container {
+		height: 400px;
+	}
+	.slogan .message {
+		margin-left: -210px;
+		width: 420px;
+		top: 50px;
+	}
+	.slogan .team-1, .slogan .team-2 {
+		display: none;
+	}
+	.slogan p {
+		left: 0;
+		width: auto;
+		text-align: center;
+		top: 300px;
+	}
+	.related-post article {
+		width: 125px;
+	}
+	.entry-about .service-desc {
+		width: 190px;
+	}
+	#footer .about-txt, #footer .contact-info {
+		float: none;
+		width: 100%;
+	}
+	#welcome {
+		height: 900px;
+		width: 100%;
+	}
+	#welcome .desc {
+		font-size: 25px;
+	}
+	#work {
+		height: 750px;
+	}
+}/* Large Phones - Landscape */
+@media screen and (max-width: 640px) {
+	.container, .main, .sidebar {
+		width: 560px;
+	}
+	#work-slider .flex-caption h2 {
+		font-size: 24px;
+		line-height: 28px;
+	}
+	#work-slider .flex-caption a.more {
+		font-size: 13px;
+	}
+	#clients .client-item {
+		width: 128px;
+		height: auto;
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(2n+1), #clients .client-item:nth-child(3n+1), #clients .client-item:nth-child(5n+1) {
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(4n+1) {
+		margin-right: 0;
+	}
+	.related-post article {
+		width: 115px;
+	}
+	.entry-about .service-item {
+		padding-top: 30px;
+	}
+	.entry-about .service-desc, .entry-about .service-tag {
+		width: auto;
+		float: none;
+	}
+	.entry-about .service-tag {
+		margin-top: 0;
+		text-align: left;
+		font-size: 12px;
+		line-height: 16px;
+	}
+	.entry-about .service-tag span {
+		display: inline-block;
+	}
+	.entry-about .service-tag span:after {
+		font-family: "fontello";
+		content: '\e80f';
+		margin: 0 5px;
+	}
+	.entry-about .service-item h5, .entry-about .service-item hr.divider-thin {
+		margin-left: 0;
+	}
+	.entry-about .service-item a.more {
+		margin-left: 0;
+		margin-top: 20px;
+	}
+	#welcome {
+		height: 900px;
+	}
+	#welcome .desc {
+		font-size: 23px;
+	}
+	.inner-table-cell {
+		display: block;
+	}#work .inner-table {
+		display: inline-block;
+		overflow: hidden;
+	}
+	#work-slider .flex-caption {
+		top: -150px;
+		width: 100%;
+	}
+	#work #work-slider img {
+		margin-left: -13%;
+	}
+	.flex-direction-nav a::before {
+		font-size: 25px;
+	}
+}/* Regular Phones - Landscape */
+@media screen and (max-width: 580px) {
+	.container, .main, .sidebar {
+		width: 440px;
+	}
+	.one-fourth, .one-third, .two-third, .two-fourth, .three-fourth {
+		width: 100%;
+	}
+	.sidebar .widget, .footer-widgets .widget {
+		width: 100%;
+		margin-right: 0;
+	}
+	ul.primary-nav li a {
+		margin: 0 5px;
+	}
+	#work-slider .flex-caption h2 {
+		font-size: 18px;
+		line-height: 22px;
+	}
+	a.all-works {
+		font-size: 13px;
+	}
+	#clients h2 {
+		font-size: 20px;
+	}
+	#clients .client-item {
+		width: 136px;
+		height: auto;
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(2n+1), #clients .client-item:nth-child(4n+1), #clients .client-item:nth-child(5n+1) {
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(3n+1) {
+		margin-right: 0;
+	}
+	.related-post article {
+		width: 85px;
+	}
+	.footer-info .one-third {
+		margin-bottom: 10px;
+	}
+	.entry-about {
+		padding-bottom: 0;
+	}
+	.entry-about .service-icon {
+		display: none;
+	}
+	.entry-about .service-tag-mobile {
+		display: block;
+	}
+	.entry-about .service-tag-mobile {
+		margin-bottom: 20px;
+	}
+	.entry-about .service-desc {
+		padding-left: 0;
+	}
+	.entry-about .service-desc .separator {
+		margin-top: 20px;
+	}
+	#welcome, #welcome .container {
+		height: 720px;
+	}
+	#welcome .inner-table {
+		padding-top: 90px;
+	}
+	#welcome .heart img {
+		width: 350px;
+	}
+	#welcome .desc {
+		font-size: 20px;
+	}
+	#work {
+		height: 680px;
+	}
+}/* Large Phones - Portrait */
+@media screen and (max-width: 440px) {
+	.container, .main, .sidebar {
+		width: 360px;
+	}
+	#welcome .heart, #welcome .icon-down-open-big {
+		margin: 35px 0;
+	}
+	#welcome .heart img {
+		width: 300px;
+	}
+	#welcome .desc {
+		font-size: 18px;
+		line-height: 24px;
+	}
+	#welcome, #welcome .container {
+		height: 620px;
+	}
+	#welcome .inner-table {
+		padding-top: 60px;
+	}
+	#work-slider .flex-caption {
+		top: -150px;
+		width: 100%;
+	}
+	#work-slider .flex-caption h2 {
+		font-size: 15px;
+		line-height: 18px;
+	}
+	#work-slider .flex-caption a.more {
+		font-size: 11px;
+	}
+	#clients .client-item {
+		width: 110px;
+		height: auto;
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(2n+1), #clients .client-item:nth-child(4n+1), #clients .client-item:nth-child(5n+1) {
+		margin-right: 15px;
+	}
+	#clients .client-item:nth-child(3n+1) {
+		margin-right: 0;
+	}
+	.slogan .message {
+		margin-left: -160px;
+		width: 320px;
+	}
+	.slogan p {
+		top: 250px;
+	}
+	.project-detail {
+		margin-bottom: 40px;
+	}
+	.related-post article {
+		width: 155px;
+	}
+	#work {
+		height: 660px;
+	}
+	.flex-direction-nav a::before {
+		font-size: 20px;
+	}
+
+}/* Small Phones - Landscape */
+@media screen and (max-width: 380px) {
+	.container, .main, .sidebar {
+		width: 300px;
+	}
+	#header {
+		padding: 5px 0 0;
+	}
+	.brand img {
+		width: 120px;
+	}
+	#primary-menu-container {
+		margin-top: 3px;
+	}
+	#welcome, #welcome .container {
+		height: 610px;
+	}
+	#welcome .inner-table {
+		padding-top: 40px;
+	}
+	#work-slider .flex-caption h2 {
+		font-size: 12px;
+	}
+	#clients {
+		padding-top: 50px;
+	}
+	#clients .client-item {
+		width: 140px;
+		height: auto;
+		margin-right: 20px;
+	}
+	#clients .client-item:nth-child(3n+1), #clients .client-item:nth-child(4n+1), #clients .client-item:nth-child(5n+1) {
+		margin-right: 20px;
+	}
+	#clients .client-item:nth-child(2n+1) {
+		margin-right: 0;
+	}
+	.related-post h4 {
+		font-size: 16px;
+	}
+	.related-post .more {
+		font-size: 12px;
+	}
+	.related-post article {
+		width: 125px;
+	}
+	#content {
+		padding: 111px 0;
+	}
+	.slogan .message {
+		margin-left: -130px;
+		width: 260px;
+	}
+	#work {
+		height: 610px;
+	}
+
+}
+@media screen and (max-width: 320px) {
+	.container, .main, .sidebar {
+		width: 300px;
+	}
+
+}

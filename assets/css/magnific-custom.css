@@ -1,0 +1,152 @@
+/*----------------------------------------*\
+    $ANIMATIONS / $TRANSITIONS
+\*----------------------------------------*/
+.mfp-zoom-in .mfp-with-anim {
+  opacity:0;
+  transition:all 0.2s ease-in-out;
+  transform:scale(0.8);
+}
+.mfp-zoom-in.mfp-bg {
+  opacity:0;
+  transition:all 0.3s ease-out;
+}
+.mfp-zoom-in.mfp-ready .mfp-with-anim {
+  opacity:1;
+  transform:scale(1);
+}
+.mfp-zoom-in.mfp-ready.mfp-bg {
+  opacity:0.8;
+}
+.mfp-zoom-in.mfp-removing .mfp-with-anim {
+  transform:scale(0.8);
+  opacity:0;
+}
+.mfp-zoom-in.mfp-removing.mfp-bg {
+  opacity:0;
+}
+
+/* overlay at start */
+.mfp-fade.mfp-bg {
+  -webkit-transform:translate3d(0, 0, 0);
+  -moz-transform:translate3d(0, 0, 0);
+  -ms-transform:translate3d(0, 0, 0);
+  -o-transform:translate3d(0, 0, 0);
+  transform:translate3d(0, 0, 0);
+  -webkit-backface-visibility:hidden;
+  -moz-backface-visibility:hidden;
+  -ms-backface-visibility:hidden;
+  -o-backface-visibility:hidden;
+  backface-visibility:hidden;
+  -webkit-perspective:1000px;
+  -moz-perspective:1000px;
+  -ms-perspective:1000px;
+  -o-perspective:1000px;
+  perspective:1000px;
+  filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity:0;
+  -webkit-transition:all 0.2s ease-in-out;
+  -moz-transition:all 0.2s ease-in-out;
+  -o-transition:all 0.2s ease-in-out;
+  transition:all 0.2s ease-in-out;
+}
+
+/* overlay animate in */
+.mfp-fade.mfp-bg.mfp-ready {
+  filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+  opacity:0.8;
+}
+
+/* overlay animate out */
+.mfp-fade.mfp-bg.mfp-removing {
+  -webkit-transition:all 0.2s 0.1s;
+  -webkit-transition-delay:ease-in-out;
+  -moz-transition:all 0.2s 0.1s ease-in-out;
+  -o-transition:all 0.2s 0.1s ease-in-out;
+  transition:all 0.2s 0.1s ease-in-out;
+  filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity:0;
+}
+
+/* content at start */
+.mfp-fade.mfp-wrap .mfp-content {
+  -webkit-transform:translate3d(0, 0, 0);
+  -moz-transform:translate3d(0, 0, 0);
+  -ms-transform:translate3d(0, 0, 0);
+  -o-transform:translate3d(0, 0, 0);
+  transform:translate3d(0, 0, 0);
+  -webkit-backface-visibility:hidden;
+  -moz-backface-visibility:hidden;
+  -ms-backface-visibility:hidden;
+  -o-backface-visibility:hidden;
+  backface-visibility:hidden;
+  -webkit-perspective:1000px;
+  -moz-perspective:1000px;
+  -ms-perspective:1000px;
+  -o-perspective:1000px;
+  perspective:1000px;
+  -webkit-transform:scale(0.75, 0.75);
+  -moz-transform:scale(0.75, 0.75);
+  -ms-transform:scale(0.75, 0.75);
+  -o-transform:scale(0.75, 0.75);
+  transform:scale(0.75, 0.75);
+  filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity:0;
+  -webkit-transition:all 0.2s 0.1s;
+  -webkit-transition-delay:ease-in-out;
+  -moz-transition:all 0.2s 0.1s ease-in-out;
+  -o-transition:all 0.2s 0.1s ease-in-out;
+  transition:all 0.2s 0.1s ease-in-out;
+}
+
+/* content animate it */
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
+  -webkit-transform:scale(1, 1);
+  -moz-transform:scale(1, 1);
+  -ms-transform:scale(1, 1);
+  -o-transform:scale(1, 1);
+  transform:scale(1, 1);
+  filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity:1;
+}
+
+/* content animate out */
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
+  -webkit-transition:all 0.2s ease-in-out;
+  -moz-transition:all 0.2s ease-in-out;
+  -o-transition:all 0.2s ease-in-out;
+  transition:all 0.2s ease-in-out;
+  -webkit-transform:scale(0.75, 0.75);
+  -moz-transform:scale(0.75, 0.75);
+  -ms-transform:scale(0.75, 0.75);
+  -o-transform:scale(0.75, 0.75);
+  transform:scale(0.75, 0.75);
+  filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity:0;
+}
+
+/* mp */
+.mfp-arrow.mfp-arrow-left {
+  background: transparent url(../images/slider-arrows.png) no-repeat 0 -62px;width:34px;
+  height:62px;
+  opacity:0.2;
+  left:70px!important;
+}
+.mfp-arrow.mfp-arrow-right {
+  background: transparent url(../images/slider-arrows.png) no-repeat 0 0;
+  width:34px;
+  height:62px;
+  opacity:0.2;
+  right:70px!important;
+}
+.mfp-arrow:hover {opacity:1;}
+.mfp-arrow:before, .mfp-arrow:after {content:normal;}
+
+/* Modal popup */
+.white-popup-block {
+  background: #FFF;
+  padding: 20px 30px;
+  text-align: left;
+  max-width: 650px;
+  margin: 40px auto;
+  position: relative;
+}
