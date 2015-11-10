@@ -10,8 +10,8 @@ Template Name: About page
 			<div class="entry-content entry-about">
 				<div class="wow fadeInLeft two-fourth" data-wow-delay="1s">
 				<h3><strong>who</strong> we are</h3>
-				<p class="who-we-are">NOVA is a leading design agency in Phnom Penh specializing in branding, communications, digital, and now expanding into event management. We provide branding campaigns built out into all media; communication design solutions centered on message and information; digital design solutions responsive on all smart devices; and now expanding into event management to include planning, execution, and handling of all required materials.</p>
-				<p class="who-we-are">As the development in Cambodia continues at an increasingly fast pace, we are developing too, continually positioning ourselves to serve our client’s changing needs. We have just expanded our physical space to accommodate more cutting-edge talent. We now have our own printing house to further our quality control in the process of going from design to print. We work with a wide range of writers, videographers, animators, developers, and photographers to provide a full range of services. And we are now offering event management services as a natural extension of our design capabilities.</p>
+				<p class="who-we-are">NOVA is a leading design agency in Phnom Penh specialising in branding , communications and digital.NOVA is a leading design agency in Phnom Penh specialising in branding , communications and digital. We provide branding campaigns built out into all media; communication design solutions centered on message and information; digital design solutions responsive on all smart devices.</p>
+				<p class="who-we-are">As the development in Cambodia continues at an increasingly fast pace, we are developing too, continually positioning ourselves to serve our client’s changing needs. We have just expanded our physical space to accommodate more cutting-edge talent. We now have our own printing house to further our quality control in the process of going from design to print. We work with a wide range of writers, videographers, animators, developers, and photographers to provide a full range of services.</p>
 				<p class="who-we-are">NOVA’s ten years of success lies in our ability to offer quality deliverables which fit the changing needs of our clients. We have extensive experience working with private businesses large and small, corporations and franchises, public and government institutions, NGO’s, individuals.</p>
 				<p class="who-we-are">All the while, we never lose sight of our core values: creativity, honesty, and treating our staff and clients alike as family.</p>
 				</div>
@@ -106,25 +106,25 @@ Template Name: About page
 						<span>Corporate Blogs</span>
 					</div>
 					<div class="clear"></div>
-					<hr class="divider-thin wow fadeIn" data-wow-delay="1s">
+					<!-- <hr class="divider-thin wow fadeIn" data-wow-delay="1s"> -->
 				</div> <!-- .service-item -->
 
-				<div class="service-item clearfix">
+				<!-- <div class="service-item clearfix">
 					<h5 class="wow fadeInDown" data-wow-delay="1s">Event Management</h5>
 					<div class="wow fadeInLeft service-icon" data-wow-delay="1s">
 						<img src="<?php echo SP_ASSETS; ?>/images/icon-digital-2.png">
-					</div> <!-- .service-icon -->
+					</div>
 					<div class="wow fadeInRight service-desc" data-wow-delay="1s">
 						<p>As a natural extension of our branding, communication, and digital design services, NOVA is now expanded into event planning and management. Now, we will not only provide our clients with the deliverables necessary to pull off an event, we will offer the planning and execution of the event itself. This allows us to keep all creative decisions centered on a consistent brand, theme, or strategy.</p>
 						<a href="#" class="more">Explore our work</a>	
-					</div> <!-- .service-desc -->
+					</div>
 					<div class="wow fadeInRight service-tag" data-wow-delay="1s">
 						<span>Corporate meetings</span>
 						<span>Weddings</span>
 						<span>...</span>
 					</div>
 					<div class="clear"></div>
-				</div> <!-- .service-item -->
+				</div> -->
 
 
 				
