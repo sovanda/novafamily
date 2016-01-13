@@ -16,7 +16,7 @@ Template Name: Work page
 				$custom_query = new WP_Query($args);
 			?>
 			<?php if ( $custom_query->have_posts() ): ?>
-			<h4>Portfolios</h4>	
+			<h3><?php the_title(); ?></h3>	
 				<?php while ( $custom_query->have_posts() ) : $custom_query->the_post();
 					$thumb_url = wp_get_attachment_image_src( get_post_thumbnail_id(), 'large' ); ?>
 					

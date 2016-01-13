@@ -10,7 +10,8 @@ Template Name: Recruitment page
 			<div class="entry-content entry-about">
 
 					<?php while ( have_posts() ) : the_post(); ?>
-						<div class="wow fadeInLeft desc">		
+						<div class="wow fadeInLeft" data-wow-delay="1s">
+							<h3><?php the_title(); ?></h3>		
 							<?php the_content(); ?>
 						</div>		
 					<?php endwhile; ?>

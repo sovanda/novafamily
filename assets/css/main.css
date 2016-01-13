@@ -204,6 +204,11 @@ ul.primary-nav li.nav-contact a:hover, ul.primary-nav li.nav-contact.current-men
 	margin-top: 60px;
 	margin-bottom: 0;
 }
+#work h3 {
+	font-size: 34px;
+	text-align: left;
+	font-weight: 300;
+}
 a.all-works {
 	display: block;
 	text-align: center;
@@ -445,7 +450,7 @@ margin-right: 0;
 	line-height: 1.4em;
 }/* Related Post */
 .related-post {
-	margin: 80px 0 !important;
+	/*margin: 80px 0 !important;*/
 	text-align: center;
 }
 .related-post h4, .related-post .more {
