@@ -165,7 +165,11 @@ ul.primary-nav li.nav-contact a:hover, ul.primary-nav li.nav-contact.current-men
 	font-size: 12px;
 	text-transform: uppercase;
 	font-weight: 600;
-}/* --------------------------------------------------------------- * Homepage * ------------------------------------------------------------ *//*#welcome { padding-top: 81px; }*//* Introduction */
+}
+.footer-nav {
+	display: inline-block;
+}
+/* --------------------------------------------------------------- * Homepage * ------------------------------------------------------------ *//*#welcome { padding-top: 81px; }*//* Introduction */
 #welcome {
 	background: #2c2c2c url(../images/overlay-dark.jpg);
 	text-align: center;

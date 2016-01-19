@@ -16,7 +16,7 @@
                     <p>+855 (0)23 223 577<br/>
                     <a href="mailto:info@novacambodia.com">info@novacambodia.com</a></p>
                 </div>
-                <div class="wow fadeInUp">
+                <div class="wow fadeInUp footer-nav">
                     <h5>Join our team</h5>
                     <p><a href="http://www.novacambodia.com/careers/">Careers</a></p>
                 </div>
