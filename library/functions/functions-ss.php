@@ -18,7 +18,9 @@ if( !function_exists('sp_frontend_scripts_styles') ) {
 		wp_enqueue_style('base', SP_ASSETS . '/css/base.css', false, SP_THEME_VERSION);
 		wp_enqueue_style('animate', SP_ASSETS . '/css/animate.css', false, SP_THEME_VERSION);
 		wp_enqueue_style('flexslider', SP_ASSETS . '/css/flexslider.css', false, SP_THEME_VERSION);
-		wp_enqueue_style('flexslider-custom', SP_ASSETS . '/css/flexslider-custom.css', false, SP_THEME_VERSION);
+		wp_enqueue_style('flexslider-custom', SP_ASSETS . '/css/flexslider-custom.css', false, SP_THEME_VERSION);	
+		wp_enqueue_style('magnific-popup', SP_ASSETS . '/css/magnific-popup.css', false, SP_THEME_VERSION);
+		wp_enqueue_style('magnific-custom', SP_ASSETS . '/css/magnific-custom.css', false, SP_THEME_VERSION);
 		wp_enqueue_style('main', SP_ASSETS . '/css/main.css', false, SP_THEME_VERSION);
 		
 		//Register scripts
