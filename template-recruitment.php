@@ -96,16 +96,16 @@ Template Name: Recruitment page
 									•	Present new products and services and enhance existing relationships<br/><br/>
 
 									<strong>Requirements:</strong><br/>
-									·	Excellent command of the English language and Khmer <br/>
-									·	Bachelor’s degree, is preferred<br/>
-									·	Minimum 3 years’ experience in digital marketing<br/>
-									·	Strong communication and presentation skills <br/>
-									·	Sales and marketing experience<br/>
-									·	Understand digital strategy <br/>
-									·	Strong understanding of customer and market dynamics and requirements<br/>
-									·	Be able to work outside of office<br/>
-									·	Entrepreneurial mindset and willingness to collaborate<br/>
-									·	Eager to learn <br/><br/>
+									•	Excellent command of the English language and Khmer <br/>
+									•	Bachelor’s degree, is preferred<br/>
+									•	Minimum 3 years’ experience in digital marketing<br/>
+									•	Strong communication and presentation skills <br/>
+									•	Sales and marketing experience<br/>
+									•	Understand digital strategy <br/>
+									•	Strong understanding of customer and market dynamics and requirements<br/>
+									•	Be able to work outside of office<br/>
+									•	Entrepreneurial mindset and willingness to collaborate<br/>
+									•	Eager to learn <br/><br/>
 									<strong>Why join us?</strong><br/>
 									This is a fantastic opportunity for a digital business development person to develop their sales skills in a great agency environment. You will be working with a broad range of clients, as well as bright, highly motivated team members. If that sounds like an environment in which you would like work then apply today.<br/>
 
@@ -195,12 +195,12 @@ Template Name: Recruitment page
 									•	Assist in client service related activities <br/><br/>
 
 									<strong>Requirements:</strong><br/>
-									·	Excellent command of the English language and Khmer <br/>
-									·	Bachelor’s degree, is preferred<br/>
-									·	Experience in digital or IT industry, is preferred but not essential<br/>
-									·	Strong communication and presentation skills <br/>
-									·	Sales and marketing experience<br/>
-									·	Eager to learn and a great team player<br/><br/>
+									•	Excellent command of the English language and Khmer <br/>
+									•	Bachelor’s degree, is preferred<br/>
+									•	Experience in digital or IT industry, is preferred but not essential<br/>
+									•	Strong communication and presentation skills <br/>
+									•	Sales and marketing experience<br/>
+									•	Eager to learn and a great team player<br/><br/>
 									<strong>Why join us?</strong><br/>
 									This is a fantastic opportunity for a sales and marketing executive person to develop their sales skills in a great agency environment. You will be working with a broad range of clients, as well as bright, highly motivated team members. If that sounds like an environment in which you would like work then apply today.<br/><br/>
 
