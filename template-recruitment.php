@@ -8,7 +8,7 @@ Template Name: Recruitment page
 	<div id="content">
 		<div class="container clearfix">
 			<div class="entry-content entry-about">
-
+				<font face="verdana">
 					<?php while ( have_posts() ) : the_post(); ?>
 						<div class="wow fadeInLeft" data-wow-delay="1s">
 							<h3><?php the_title(); ?></h3>		
@@ -28,16 +28,16 @@ Template Name: Recruitment page
 								<br/>
 								<div class="row">
 									<div class="col-xs-12">
-										<p class="headline4 current-jobs-header"><strong>Current opportunities</strong></p>
+										<p class="headline4 current-jobs-header"><strong><i>Current opportunities</i></strong></p>
 									</div>
 								</div>
 								<table width="266">
 									<tbody>
 									<tr>
-										<td style="text-align: left;"><strong>Job Title</strong></td>
-										<td style="text-align: left;"><b>Type</b></td>
-										<td style="text-align: left;"><strong>City</strong></td>
-										<td style="text-align: left;"><strong>Application</strong></td>
+										<td style="text-align: left;"><strong><i>Job Title</i></strong></td>
+										<td style="text-align: left;"><b><i>Type</i></b></td>
+										<td style="text-align: left;"><strong><i>City</i></strong></td>
+										<td style="text-align: left;"><strong><i>Application</i></strong></td>
 									</tr>
 									<tr>
 										<td>Digital Business Development Manager</td>
@@ -80,10 +80,10 @@ Template Name: Recruitment page
 								</table>
 								<div class="hide-file" id="one">	
 									<hr>
-									<p><strong>Digital Business Development Manager</strong></p>
+									<h5>Digital Business Development Manager</h5><br/>
 									<p>We are looking for a Digital Business Development Manager for our branding, communications and digital agency in Phnom Penh.</p> 
 
-									<p><strong>Responsibilities:</strong><br/>
+									<p><strong><i>Responsibilities:</i></strong><br/>
 									•	Main responsibiliy will be for new business development from a digital perspective <br/>
 									•	Proactively identify new business opportunities and potential new clients and turn this into increased business<br/>
 									•	Collect and prepare new business information and key person contact information. Identify potential clients, and the decision makers within the client organization<br/>
@@ -95,7 +95,7 @@ Template Name: Recruitment page
 									•	Attend meetings with businesses<br/> 
 									•	Present new products and services and enhance existing relationships<br/><br/>
 
-									<strong>Requirements:</strong><br/>
+									<strong><i>Requirements:</i></strong><br/>
 									•	Excellent command of the English language and Khmer <br/>
 									•	Bachelor’s degree, is preferred<br/>
 									•	Minimum 3 years’ experience in digital marketing<br/>
@@ -106,27 +106,27 @@ Template Name: Recruitment page
 									•	Be able to work outside of office<br/>
 									•	Entrepreneurial mindset and willingness to collaborate<br/>
 									•	Eager to learn <br/><br/>
-									<strong>Why join us?</strong><br/>
+									<strong><i>Why join us?</i></strong><br/>
 									This is a fantastic opportunity for a digital business development person to develop their sales skills in a great agency environment. You will be working with a broad range of clients, as well as bright, highly motivated team members. If that sounds like an environment in which you would like work then apply today.<br/>
 
-									<br/><strong>How to apply:</strong><br/>
+									<br/><strong><i>How to apply:</i></strong><br/>
 									Send CV and cover letter to janelle@novacabodia.com</p>
 
 								</div>
 							    <div class="hide-file" id="two">
 							    	<hr>
-							    	<p><strong>Account Executive</strong></p>
+							    	<h5>Account Executive</h5><br/>
 							    	<p>We’re looking for a motivated self-starter excited to join our team at NOVA as an Account Executive.<br/> 
 									He/she should be passionate about advertising and should demonstrate an eagerness to learn and be a smart and resourceful team player.</p> 
 
 									<p>The Account Executive (AE) should have a flexible communication style, driving partnerships internally, as well as externally with client brand team/marketing team, and cross-agency partners (suppliers, Media, Digital, and other 3rd party partners).</p> 
 
-									<p><strong>Business Development:</strong><br/>
+									<p><strong><i>Business Development:</i></strong><br/>
 									•	Identifying and acquiring new clients and developing our existing client base in accordance with the profiles of our accounts.<br/> 
 									•	Work with the Accounts Team and other managers to increase sales opportunities and maximize revenue<br/>
 									•	Grow and retain existing accounts by presenting new products and support services to clients<br/><br/>
 
-									<strong>Account Management:</strong><br/> 
+									<strong><i>Account Management:</i></strong><br/> 
 									•	Meeting with clients often to discuss current and future projects with the advertising agency<br/>
 									•	Writing creative briefs for the creative director and his/her department<br/>
 									•	Formulating advertising and marketing strategies<br/>
@@ -137,21 +137,21 @@ Template Name: Recruitment page
 									•	Writing detailed reports for the client and the agency<br/>
 									•	Organizing and leading focus groups and brainstorming sessions<br/><br/>
 
-									<strong>Desired Skills and Experience:</strong><br/>
+									<strong><i>Desired Skills and Experience:</i></strong><br/>
 									•	Candidate must have a university degree, with minimum of 2 years advertising agency experience.<br/>
 									•	Excellent presentation and communications skills both in Khmer and English, together with strategic and analytical skills are all essential. <br/>
 									•	Able to work independently as well as a strong team leader and player with a positive and flexible working attitude is preferred. <br/><br/>
 
-									<strong>How to apply:</strong><br/>
+									<strong><i>How to apply:</i></strong><br/>
 									Send CV and cover letter to info@novacambodia.com</p>
 
 							    </div>
 							    <div class="hide-file" id="three">
 								    <hr>	
-								    <p><strong>Office receptionist</strong></p>
+								    <h5>Office receptionist</h5><br/>
 								    <p>We are looking for an Office receptionist for our branding, communications and digital agency in Phnom Penh. </p>
 
-								    <p><strong>Responsibilities:</strong><br/>
+								    <p><strong><i>Responsibilities:</i></strong><br/>
 								   	•	Deliver excellent customer service, at all times<br/>
 									•	Greet, assist and/or direct visitors and the public and respond to inquiry<br/>
 									•	Responsible for daily administration of incoming and outgoing communications including documents and telephone calls, channeling to different departments. <br/>
@@ -163,7 +163,7 @@ Template Name: Recruitment page
 									•	Manages Messengers and make sure document delivery are delivered properly and on time<br/>
 									•	Performs any other task that may be assigned by Managers or Directors<br/><br/>
 
-								    <strong>Requirements:</strong><br/>
+								    <strong><i>Requirements:</i></strong><br/>
 								    •	Graduate of a four year course<br/>
 									•	2-3 years of work experience in the same field preferably assisting top officials of a company<br/>
 									•	Computer Literate. <br/>
@@ -175,16 +175,16 @@ Template Name: Recruitment page
 									•	Can work with minimum supervision<br/>
 									•	Must be highly trainable and willing to accept higher responsibilities <br/><br/>
 
-									<strong>How to apply:</strong><br/>
+									<strong><i>How to apply:</i></strong><br/>
 									Send CV and cover letter to info@novacambodia.com </p>
 
 							    </div>
 							    <div class="hide-file" id="four">
 							    	<hr>	
-								    <p><strong>Sales and Marketing Executive</strong></p>
+								    <h5>Sales and Marketing Executive</h5><br/>
 								    <p>We are looking for a Sales & Marketing Executive for our branding, communications and digital agency in Phnom Penh.</p> 
 
-									<p><strong>Responsibilities:</strong><br/>
+									<p><strong><i>Responsibilities:</i></strong><br/>
 									•	Assist with business development activities<br/>
 									•	Help identify new business opportunities and potential new clients <br/>
 									•	Collect and prepare new business information and key person contact information. <br/>
@@ -194,26 +194,26 @@ Template Name: Recruitment page
 									•	Present new products and services and enhance existing relationships<br/>
 									•	Assist in client service related activities <br/><br/>
 
-									<strong>Requirements:</strong><br/>
+									<strong><i>Requirements:</i></strong><br/>
 									•	Excellent command of the English language and Khmer <br/>
 									•	Bachelor’s degree, is preferred<br/>
 									•	Experience in digital or IT industry, is preferred but not essential<br/>
 									•	Strong communication and presentation skills <br/>
 									•	Sales and marketing experience<br/>
 									•	Eager to learn and a great team player<br/><br/>
-									<strong>Why join us?</strong><br/>
+									<strong><i>Why join us?</i></strong><br/>
 									This is a fantastic opportunity for a sales and marketing executive person to develop their sales skills in a great agency environment. You will be working with a broad range of clients, as well as bright, highly motivated team members. If that sounds like an environment in which you would like work then apply today.<br/><br/>
 
-									<strong>How to apply:</strong><br/>
+									<strong><i>How to apply:</i></strong><br/>
 									Send CV and cover letter to janelle@novacabodia.com </p>
 
 							    </div>
 							    <div class="hide-file" id="five">
 							    	<hr>	
-								    <p><strong>Web Developer</strong></p>
+								    <h5>Web Developer</h5><br/>
 								    <p>We are looking for a Web Developer for our branding, communications and digital agency in Phnom Penh.</p> 
 
-									<p><strong>Responsibilities:</strong><br/>
+									<p><strong><i>Responsibilities:</i></strong><br/>
 									•	Manage, develop and design all website projects<br/>
 									•	Prepare, write and edit all requirements documentation for clients<br/>
 									•	Website project planning and proposals<br/>
@@ -227,7 +227,7 @@ Template Name: Recruitment page
 									•	Collaborate with design team<br/>
 									•	Assisting in all digital related activity <br/><br/>
 
-									<strong>Requirements:</strong><br/>
+									<strong><i>Requirements:</i></strong><br/>
 									•	Excellent command of the English language and Khmer <br/>
 									•	HTML5, CSS3, JavaScript (JQuery), PHP, MySQL<br/>
 									•	Wordpress is essential <br/>
@@ -236,19 +236,19 @@ Template Name: Recruitment page
 									•	Good communication and presentation skills <br/>
 									•	Attention to detail and Analytical skills required<br/>
 									•	Eager to learn <br/><br/>
-									<strong>Why join us?</strong><br/>
+									<strong><i>Why join us?</i></strong><br/>
 									This is a fantastic opportunity for a web developer to develop their skills in a great agency environment. You will be working with a broad range of clients, as well as bright, highly motivated team members. If that sounds like an environment in which you would like work then apply today.<br/><br/>
 
-									<strong>How to apply:</strong><br/>
+									<strong><i>How to apply:</i></strong><br/>
 									Send CV and cover letter to janelle@novacabodia.com </p>
 
 							    </div>
 							    <div class="hide-file" id="six">
 							    	<hr>	
-								    <p><strong>Messenger</strong></p>
+								    <h5>Messenger</h5><br/>
 								    <p>We are looking for a messenger for our branding, communications and digital agency in Phnom Penh. </p>
 
-									<p><strong>Responsibilities:</strong><br/>
+									<p><strong><i>Responsibilities:</i></strong><br/>
 									•	Collect document from all departments for sending purpose.<br/>
 									•	Walk, ride bicycles or drive vehicles in order to reach destinations to deliver messages or material.<br/>
 									•	Determine destinations by referring to addresses on packages and documents.<br/>
@@ -261,7 +261,7 @@ Template Name: Recruitment page
 									•	Uses time efficiently.<br/>
 									•	Other duties will be assigned by Managers or Directors.<br/><br/>
 
-									<strong>Requirements:</strong><br/>
+									<strong><i>Requirements:</i></strong><br/>
 									•	Male (must be 18 years old up)<br/>
 									•	Graduated or university’s student<br/>
 									•	No experience required or if any is preferred.<br/>
@@ -272,13 +272,13 @@ Template Name: Recruitment page
 									•	Have own motorbike<br/><br/>
 
 
-									<strong>How to apply:</strong><br/>
+									<strong><i>How to apply:</i></strong><br/>
 									Send CV and cover letter to info@novacambodia.com </p>
 
 							    </div>
 						</div>		
 					<?php endwhile; ?>
-				
+				</font>
 			</div> <!-- .entry-content .entry-about -->
 		</div>
 	</div> <!-- #content -->

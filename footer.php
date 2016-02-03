@@ -10,6 +10,7 @@
                 <div class="wow fadeInUp one-third">
                     <h5>Socialize</h5>
                     <p><a href="https://www.facebook.com/novadesign.cambodia" target="_blank">Facebook</a></p>
+                    <p><a href="https://www.linkedin.com/company/nova-cambodia" target="_blank">LinkedIn</a></p>
                 </div>
                 <div class="wow fadeInUp two-third last">
                     <h5>Contact Us</h5>
