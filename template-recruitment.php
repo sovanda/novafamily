@@ -40,6 +40,13 @@ Template Name: Recruitment page
 										<td style="text-align: left;"><strong><i>Application</i></strong></td>
 									</tr>
 									<tr>
+										<td>Digital Strategist and Account Manager</td>
+										<td>Full time</td>
+										<td>Phnom Penh</td>
+										<td style="text-align: left;">
+										<a href="#account" class="account">View job</a></td>
+									</tr>
+									<tr>
 										<td>Digital Business Development Manager</td>
 										<td>Full time</td>
 										<td>Phnom Penh</td>
@@ -70,14 +77,59 @@ Template Name: Recruitment page
 										<td>Phnom Penh</td>
 										<td><a href="#five" class="five">View job</a></td>
 									</tr>
-									<tr>
-										<td style="text-align: left;">Messenger</td>
-										<td style="text-align: left;">Full time</td>
-										<td style="text-align: left;">Phnom Penh</td>
-										<td style="text-align: left;"><a href="#six" class="six">View job</a></td>
-									</tr>
 									</tbody>
 								</table>
+								<div class="hide-file" id="account">	
+									<hr>
+									<h5>Digital Strategist and Account Manager</h5><br/>
+									<p>We are looking for a Digital Strategist and Account Manager for our branding,communications and digital agency in Phnom Penh.</p> 
+
+									<p><strong><i>Responsibilities:</i></strong><br/>
+									Strategy:<br/>
+									•	Create, structure and coordinate implementation of digital proposals <br/>
+									•	Create and advise on integrated marketing and digital strategies for current client base<br/>
+									•	Develop forward thinking, data driven recommendations on strategy that align with the client's marketing objectives<br/>
+									•	Adding value to the client's business by identifying opportunities to improve current practices across all marketing and advertising fields, and campaign performance<br/>
+									•	Create pitches and advise on digital and technical elements<br/>
+									•	Copywriting and Social media management<br/><br/>
+
+									Client service and new business development:<br/>
+									•	Gather, interpret and document business and client requirements <br/>
+									•	Liaison between Client and Nova Cambodia<br/>
+									•	Management of all client related documentation<br/>
+									•	Staff supervision/training<br/>
+									•	Organize & attend meetings with current clients<br/>
+									•	Proactively identify new business opportunities and potential new clients and turn this into increased business<br/>
+									• 	Collect and prepare new business information and key person contact information. Identify potential clients, and the decision makers within the client organization	<br/>
+									• 	Research and build relationships with new clients<br/><br/>
+
+									Project Management:<br/>
+									•	Delivery of projects within scope, budget and time<br/>
+									•	Management of all project related documentation<br/>
+									•	Project management of various internal teams and 3rd party resources<br/>
+									•	Planning, tracking, controlling and reporting on projects based on defined process<br/>
+									•	Implementing project management processes and advising on internal structures<br/>
+									•	Traffic jobs through the system, ensuring deadlines are met, content is correct and received on time<br/><br/>
+									
+									<strong><i>Requirements:</i></strong><br/>
+									•	Excellent command of the English language <br/>
+									•	Bachelor’s degree, is preferred<br/>
+									•	Minimum 4 years’ experience in digital marketing<br/>
+									•	Strong communication and presentation skills<br/>
+									•	Sales and marketing experience<br/>
+									•	Understand digital strategy and social media marketing<br/>
+									•	Strong understanding of customer and market dynamics and requirements<br/>
+									•	Great writing and management skills<br/>
+									•	Strong understanding of technical aspects<br/>
+									•	Entrepreneurial mindset and willingness to collaborate<br/>
+									•	Eager to learn<br/><br/>
+									<strong><i>Why join us?</i></strong><br/>
+									This is a fantastic opportunity for a digital all rounder person to develop their management skills in a great agency environment. You will be working with a broad range of clients, as well as bright, highly motivated team members. If that sounds like an environment in which you would like work then apply today.<br/>
+
+									<br/><strong><i>How to apply:</i></strong><br/>
+									Send CV and cover letter to janelle@novacabodia.com</p>
+
+								</div>
 								<div class="hide-file" id="one">	
 									<hr>
 									<h5>Digital Business Development Manager</h5><br/>
@@ -241,39 +293,6 @@ Template Name: Recruitment page
 
 									<strong><i>How to apply:</i></strong><br/>
 									Send CV and cover letter to janelle@novacabodia.com </p>
-
-							    </div>
-							    <div class="hide-file" id="six">
-							    	<hr>	
-								    <h5>Messenger</h5><br/>
-								    <p>We are looking for a messenger for our branding, communications and digital agency in Phnom Penh. </p>
-
-									<p><strong><i>Responsibilities:</i></strong><br/>
-									•	Collect document from all departments for sending purpose.<br/>
-									•	Walk, ride bicycles or drive vehicles in order to reach destinations to deliver messages or material.<br/>
-									•	Determine destinations by referring to addresses on packages and documents.<br/>
-									•	Ensure that the delivery is done in a timely manner<br/>
-									•	Ensure that packages are ready for delivery by packing them in a safe manner.<br/>
-									•	Understand privacy rules and not tamper with package or document<br/>
-									•	Maintain records of daily visits in the log book.<br/>
-									•	Confirm deliveries by checking into the office after each delivery.<br/>
-									•	Use telephones to deliver verbal messages.<br/>
-									•	Uses time efficiently.<br/>
-									•	Other duties will be assigned by Managers or Directors.<br/><br/>
-
-									<strong><i>Requirements:</i></strong><br/>
-									•	Male (must be 18 years old up)<br/>
-									•	Graduated or university’s student<br/>
-									•	No experience required or if any is preferred.<br/>
-									•	Be friendly, flexible, honest, and able to work under hard pressure <br/>
-									•	Able to plan and follow the most efficient routes for delivering goods.<br/>
-									•	Able to communicate in English<br/>
-									•	Know location in Phnom Penh clearly and other sectors <br/>
-									•	Have own motorbike<br/><br/>
-
-
-									<strong><i>How to apply:</i></strong><br/>
-									Send CV and cover letter to info@novacambodia.com </p>
 
 							    </div>
 						</div>		
