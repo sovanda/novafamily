@@ -46,13 +46,13 @@ Template Name: Recruitment page
 										<td style="text-align: left;">
 										<a href="#account" class="account">View job</a></td>
 									</tr>
-									<tr>
+									<!-- <tr>
 										<td>Digital Business Development Manager</td>
 										<td>Full time</td>
 										<td>Phnom Penh</td>
 										<td style="text-align: left;">
 										<a href="#one" class="one">View job</a></td>
-									</tr>
+									</tr> -->
 									<tr>
 										<td>Account Executive</td>
 										<td>Full time</td>
@@ -70,12 +70,6 @@ Template Name: Recruitment page
 										<td>Full time</td>
 										<td>Phnom Penh</td>
 										<td><a href="#four" class="four">View job</a></td>
-									</tr>
-									<tr>
-										<td>Web Developer</td>
-										<td>Full time</td>
-										<td>Phnom Penh</td>
-										<td><a href="#five" class="five">View job</a></td>
 									</tr>
 									</tbody>
 								</table>
@@ -130,7 +124,7 @@ Template Name: Recruitment page
 									Send CV and cover letter to janelle@novacabodia.com</p>
 
 								</div>
-								<div class="hide-file" id="one">	
+								<!-- <div class="hide-file" id="one">	
 									<hr>
 									<h5>Digital Business Development Manager</h5><br/>
 									<p>We are looking for a Digital Business Development Manager for our branding, communications and digital agency in Phnom Penh.</p> 
@@ -164,7 +158,7 @@ Template Name: Recruitment page
 									<br/><strong><i>How to apply:</i></strong><br/>
 									Send CV and cover letter to janelle@novacabodia.com</p>
 
-								</div>
+								</div> -->
 							    <div class="hide-file" id="two">
 							    	<hr>
 							    	<h5>Account Executive</h5><br/>
@@ -255,41 +249,6 @@ Template Name: Recruitment page
 									•	Eager to learn and a great team player<br/><br/>
 									<strong><i>Why join us?</i></strong><br/>
 									This is a fantastic opportunity for a sales and marketing executive person to develop their sales skills in a great agency environment. You will be working with a broad range of clients, as well as bright, highly motivated team members. If that sounds like an environment in which you would like work then apply today.<br/><br/>
-
-									<strong><i>How to apply:</i></strong><br/>
-									Send CV and cover letter to janelle@novacabodia.com </p>
-
-							    </div>
-							    <div class="hide-file" id="five">
-							    	<hr>	
-								    <h5>Web Developer</h5><br/>
-								    <p>We are looking for a Web Developer for our branding, communications and digital agency in Phnom Penh.</p> 
-
-									<p><strong><i>Responsibilities:</i></strong><br/>
-									•	Manage, develop and design all website projects<br/>
-									•	Prepare, write and edit all requirements documentation for clients<br/>
-									•	Website project planning and proposals<br/>
-									•	Research and Development if necessary<br/>
-									•	Ensure good software engineering best practices are used<br/>
-									•	Design the CMS architecture and Theme for websites<br/>
-									•	Uploading and maintaining web content<br/>
-									•	Manage hosting (WHM) & domains for clients including registering, renewing and transferring domains and hosting<br/>
-									•	Tech support and fix any issues that arise for existing and new clients<br/>
-									•	Perform regular training sessions<br/>
-									•	Collaborate with design team<br/>
-									•	Assisting in all digital related activity <br/><br/>
-
-									<strong><i>Requirements:</i></strong><br/>
-									•	Excellent command of the English language and Khmer <br/>
-									•	HTML5, CSS3, JavaScript (JQuery), PHP, MySQL<br/>
-									•	Wordpress is essential <br/>
-									•	Responsive web design and strong experience working on cross browser and multi browser platforms <br/>
-									•	SEO plugin installation experience is preferred<br/>
-									•	Good communication and presentation skills <br/>
-									•	Attention to detail and Analytical skills required<br/>
-									•	Eager to learn <br/><br/>
-									<strong><i>Why join us?</i></strong><br/>
-									This is a fantastic opportunity for a web developer to develop their skills in a great agency environment. You will be working with a broad range of clients, as well as bright, highly motivated team members. If that sounds like an environment in which you would like work then apply today.<br/><br/>
 
 									<strong><i>How to apply:</i></strong><br/>
 									Send CV and cover letter to janelle@novacabodia.com </p>
