@@ -20,6 +20,7 @@ Template Name: Recruitment page
 
 										<p>We are always on the lookout for great people to join our team.<br/>
 										Checkout our current available positions below.<br/>
+										Even if no positions are available for your specific area of expertise, we would still like to hear from you. <br/>
 										If you think you would be a great fit for our company and culture, and would enjoy working with us, then contact us today!<br/>
 										We are looking forward to hearing from you!</p>
 
